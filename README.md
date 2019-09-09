@@ -1,3 +1,3 @@
 # Nazanin-Beheshti
-Assignment 0 - Introduction to deep learning - Fall 2019
-Test gitthub
+Introduction to deep learning\Fall 2019\
+Test gitthub\Assignment0
