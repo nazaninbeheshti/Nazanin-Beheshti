@@ -1,5 +1,4 @@
-# Nazanin-Beheshti
-Introduction to deep learning<br/>  
-Fall 2019<br/>
-Test gitthub<br/>
-Assignment0<br/>
+# Project Title
+Python Implementation of Linear Regression<br/>
+A simple example to test guthub account. This is for the course, "Introduction to Deep Learning (Fall 2019)"<br/>
+
